@@ -1,0 +1,200 @@
+.haut
+{
+	margin: 0;
+	padding: 5px;
+}
+
+.haut h1,h3,h4,h5
+{
+	text-align: center;
+}
+
+.haut img
+{
+	position: absolute;
+	right: 200px;
+}
+
+.tout
+{
+  overflow-x: scroll;
+  height: 520px;
+}
+
+.general h2
+{
+	font-family: Helvetica, sans-serif;
+	text-align: center;
+}
+
+.general p
+{
+	font-family: Arial, sans-serif;
+	margin: auto;
+	width: 60%;
+	text-align: justify;
+}
+
+.general table
+{
+	font-family: Verdana, sans-serif;
+	margin: auto;
+	border-collapse: collapse;
+	width: 60%;
+}
+
+
+.general table tr td,th
+{
+	width: 33%;
+	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid grey;
+}
+
+.general table tr:hover
+{
+	background-color:#E6E6E6;
+}
+
+.general img
+{
+	display: block;
+	margin: auto;
+	width: 60%;
+}
+
+.selection ul
+{
+	list-style: none;
+	margin: auto;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.selection ul li
+{
+	border: 1px solid red;
+	border-radius: 5px;
+	padding: 8px;
+	display: inline;
+}
+
+.selection ul li a
+{
+	font-size: 25px;
+	text-decoration: none;
+	color: orange;
+}
+
+.selection ul li a:hover
+{
+	color: red;
+}
+
+#karine
+{
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+}
+
+#karine p
+{
+	font-family: Arial, sans-serif;
+	margin: auto;
+	width: 60%;
+	text-align: justify;
+}
+
+#karine table
+{
+	font-family: Verdana, sans-serif;
+	margin: auto;
+	border-collapse: collapse;
+	width: 60%;
+}
+
+
+#karine table tr td,th
+{
+	width: 33%;
+	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid grey;
+}
+
+#karine table tr:hover
+{
+	background-color:#E6E6E6;
+}
+
+#lucas
+{
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+}
+
+#lucas p, h5
+{
+	font-family: Arial, sans-serif;
+	margin: auto;
+	width: 60%;
+	text-align: justify;
+}
+
+#lucas table
+{
+	font-family: Verdana, sans-serif;
+	margin: auto;
+	border-collapse: collapse;
+	width: 60%;
+}
+
+
+#lucas table tr td,th
+{
+	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid grey;
+}
+
+#lucas table tr:hover
+{
+	background-color:#E6E6E6;
+}
+
+#mathieu
+{
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+}
+
+#mathieu p
+{
+	font-family: Arial, sans-serif;
+	margin: auto;
+	width: 60%;
+	text-align: justify;
+}
+
+#mathieu table
+{
+	font-family: Verdana, sans-serif;
+	margin: auto;
+	border-collapse: collapse;
+	width: 60%;
+}
+
+
+#mathieu table tr td,th
+{
+	width: 33%;
+	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid grey;
+}
+
+#mathieu table tr:hover
+{
+	background-color:#E6E6E6;
+}

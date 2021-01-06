@@ -1,0 +1,46 @@
+.administration
+{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.administration table
+{
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 80%;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.administration table td
+{
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+.administration table tr:hover
+{
+  background-color:#f5f5f5;
+}
+
+.administration table tr td a i
+{
+  color: white;
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 4px;
+}
+
+.administration table tr td a i:hover
+{
+  color: black;
+}
+
+.administration table tr td i
+{
+  color: white;
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 4px;
+}
